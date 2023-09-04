@@ -7,7 +7,7 @@ DropdownItemSelected	TT selected	TT ausgewählt	TT sélectionné	TT seleccionado
 ElementDisabled	Disabled	Deaktiviert	désactivé	Desactivado	Desativado
 Element_Button	Button	Schaltfläche	Bouton	Botón	Bottaum
 Element_Slider	Slider	Regler	Glissière	deslizador	Controle deslizante
-Element_Toggle	Toggle	Checkbox	Basculer	Palanca	Caixa de seleção
+Element_Toggle	Toggle	Checkbox	Basculer	Palanca	Caixa de selessaum
 Element_TextEdit	Text Edit Field	Texteingabefeld	Modifier le texte Champ	El campo de edición de texto
 Element_Dropdown	Dropdown List	Aufklappbare Liste	La liste déroulante	La lista desplegable	Combo box
 Checkbox_Checked	checked	angewählt	vérifié	comprobado	marcado

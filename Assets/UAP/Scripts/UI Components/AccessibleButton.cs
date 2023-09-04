@@ -86,7 +86,7 @@ public class AccessibleButton : UAP_BaseElement
 		{
             ApplicationModel.Instance.currentCategory = refButton.name.Split("_")[0];
 
-            if (SceneManager.GetActiveScene().name == "Game" && refButton.name != "BackButton")
+            if (SceneManager.GetActiveScene().name == "Game" && refButton.name != "BackButton" && UAP_AccessibilityManager.IsEnabled())
             {
                 GameController GC = FindObjectOfType<GameController>();
                 GC.selectedCard = refButton.gameObject;
