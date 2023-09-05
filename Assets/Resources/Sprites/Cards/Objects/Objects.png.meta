@@ -129,7 +129,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ball_img
+      name: ball_img_bola
       rect:
         serializedVersion: 2
         x: 2
@@ -150,7 +150,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: table_img
+      name: table_img_mesa
       rect:
         serializedVersion: 2
         x: 282
@@ -171,7 +171,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chair_img
+      name: chair_img_cadeira
       rect:
         serializedVersion: 2
         x: 562
@@ -192,7 +192,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bed_img
+      name: bed_img_cama
       rect:
         serializedVersion: 2
         x: 843
@@ -213,7 +213,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: door_img
+      name: door_img_porta
       rect:
         serializedVersion: 2
         x: 1
@@ -234,7 +234,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: book_img
+      name: book_img_livro
       rect:
         serializedVersion: 2
         x: 282
@@ -255,7 +255,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: doll_img
+      name: doll_img_boneca
       rect:
         serializedVersion: 2
         x: 562
@@ -276,7 +276,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knife_img
+      name: knife_img_knife
       rect:
         serializedVersion: 2
         x: 843
@@ -297,7 +297,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: paper_img
+      name: paper_img_papel
       rect:
         serializedVersion: 2
         x: 1
@@ -318,7 +318,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glasses_img
+      name: glasses_img_oculos
       rect:
         serializedVersion: 2
         x: 282
@@ -339,7 +339,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: clock_img
+      name: clock_img_relogio
       rect:
         serializedVersion: 2
         x: 562
@@ -360,7 +360,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: key_img
+      name: key_img_chave
       rect:
         serializedVersion: 2
         x: 843
@@ -643,29 +643,29 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      glasses_img: 1735143482
-      bed_img: -565793302
-      table_img: -607288825
+      glasses_img_oculos: 1735143482
       knife_txt: -1243814848
-      clock_img: 1576242920
+      doll_img_boneca: -1637470406
+      key_img_chave: 2101181754
+      book_img_livro: 987492113
       doll_txt: -1634783293
-      knife_img: 1244562526
+      knife_img_knife: 1244562526
       glasses_txt: 1456403234
       ball_txt: 1287391259
-      door_img: -471372003
-      doll_img: -1637470406
-      paper_img: -1943969436
+      clock_img_relogio: 1576242920
+      bed_img_cama: -565793302
       key_txt: 127429492
       chair_txt: -1480396420
       bed_txt: -1243321042
-      book_img: 987492113
+      paper_img_papel: -1943969436
+      ball_img_bola: -2097108073
+      table_img_mesa: -607288825
       clock_txt: 752816047
-      chair_img: -1571821137
       book_txt: -1073827486
-      key_img: 2101181754
-      door_txt: -81453781
       paper_txt: 1243284756
-      ball_img: -2097108073
+      door_img_porta: -471372003
+      door_txt: -81453781
+      chair_img_cadeira: -1571821137
       table_txt: -1327393830
   spritePackingTag: 
   pSDRemoveMatte: 0

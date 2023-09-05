@@ -369,7 +369,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: one_txt
+      name: one_txt_um
       rect:
         serializedVersion: 2
         x: 1
@@ -390,7 +390,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: two_txt
+      name: two_txt_dois
       rect:
         serializedVersion: 2
         x: 277
@@ -411,7 +411,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: three_txt
+      name: three_txt_tres
       rect:
         serializedVersion: 2
         x: 565
@@ -432,7 +432,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: four_txt
+      name: four_txt_quatro
       rect:
         serializedVersion: 2
         x: 838
@@ -453,7 +453,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: five_txt
+      name: five_txt_cinco
       rect:
         serializedVersion: 2
         x: 1
@@ -474,7 +474,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: six_txt
+      name: six_txt_seis
       rect:
         serializedVersion: 2
         x: 277
@@ -495,7 +495,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: seven_txt
+      name: seven_txt_sete
       rect:
         serializedVersion: 2
         x: 565
@@ -516,7 +516,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: eight_txt
+      name: eight_txt_oito
       rect:
         serializedVersion: 2
         x: 838
@@ -537,7 +537,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: nine_txt
+      name: nine_txt_nove
       rect:
         serializedVersion: 2
         x: 1
@@ -558,7 +558,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ten_txt
+      name: ten_txt_dez
       rect:
         serializedVersion: 2
         x: 277
@@ -579,7 +579,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: eleven_txt
+      name: eleven_txt_onze
       rect:
         serializedVersion: 2
         x: 565
@@ -600,7 +600,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: twelve_txt
+      name: twelve_txt_doze
       rect:
         serializedVersion: 2
         x: 838
@@ -631,30 +631,30 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      two_txt: 1089720894
-      ten_txt: 1159793729
-      five_txt: -1130681654
-      twelve_txt: -258285738
+      three_txt_tres: -429953859
+      seven_txt_sete: -857841138
+      five_txt_cinco: -1130681654
       four_img: 819482608
+      nine_txt_nove: -1949910392
       twelve_img: -1548706556
+      eight_txt_oito: 625955068
       three_img: -558141881
-      three_txt: -429953859
       nine_img: 1351567973
       six_img: 1268330035
       ten_img: 1543431613
-      eight_txt: 625955068
-      eleven_txt: 460635045
-      one_txt: 2054885049
+      eleven_txt_onze: 460635045
+      ten_txt_dez: 1159793729
+      one_txt_um: 2054885049
       eleven_img: -2017663674
+      twelve_txt_doze: -258285738
       two_img: -1908151172
-      six_txt: 1045016569
-      seven_txt: -857841138
       eight_img: -529599670
-      four_txt: 587245491
+      six_txt_seis: 1045016569
       one_img: 1003151817
+      two_txt_dois: 1089720894
       five_img: 72656130
       seven_img: 416643315
-      nine_txt: -1949910392
+      four_txt_quatro: 587245491
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

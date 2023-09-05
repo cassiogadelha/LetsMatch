@@ -381,11 +381,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dog_txt
+      name: dog_txt_cachorro
       rect:
         serializedVersion: 2
         x: 1
-        y: 401
+        y: 403
         width: 238
         height: 190
       alignment: 0
@@ -402,10 +402,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cow_txt
+      name: cow_txt_vaca
       rect:
         serializedVersion: 2
-        x: 277
+        x: 275
         y: 401
         width: 239
         height: 190
@@ -423,7 +423,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken_txt
+      name: chicken_txt_galinha
       rect:
         serializedVersion: 2
         x: 564
@@ -444,7 +444,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elephant_txt
+      name: elephant_txt_elefante
       rect:
         serializedVersion: 2
         x: 838
@@ -465,7 +465,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: whale_txt
+      name: whale_txt_baleia
       rect:
         serializedVersion: 2
         x: 1
@@ -486,7 +486,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fish_txt
+      name: fish_txt_peixe
       rect:
         serializedVersion: 2
         x: 277
@@ -507,11 +507,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: monkey_txt
+      name: monkey_txt_macaco
       rect:
         serializedVersion: 2
         x: 564
-        y: 198
+        y: 200
         width: 240
         height: 190
       alignment: 0
@@ -528,7 +528,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: horse_txt
+      name: horse_txt_cavalo
       rect:
         serializedVersion: 2
         x: 838
@@ -549,7 +549,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bird_txt
+      name: bird_txt_passaro
       rect:
         serializedVersion: 2
         x: 0
@@ -570,7 +570,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: turtle_txt
+      name: turtle_txt_tartaruga
       rect:
         serializedVersion: 2
         x: 277
@@ -591,7 +591,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sheep_txt
+      name: sheep_txt_ovelha
       rect:
         serializedVersion: 2
         x: 564
@@ -612,7 +612,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cat_txt
+      name: cat_txt_gato
       rect:
         serializedVersion: 2
         x: 838
@@ -643,30 +643,30 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      elephant_txt: -1886942060
-      cow_txt: -1100553105
+      dog_txt_cachorro: 2030195088
       dog_img: 443730469
-      chicken_txt: 1377754019
-      monkey_txt: 1807286909
-      dog_txt: 2030195088
+      turtle_txt_tartaruga: -515760447
+      bird_txt_passaro: -1399631014
       whale_img: -1310382686
+      horse_txt_cavalo: 2032368956
       monkey_img: -1760143889
       horse_img: 1920667608
       turtle_img: -817519764
       sheep_img: -672957472
-      fish_txt: -1696149766
+      fish_txt_peixe: -1696149766
       fish_img: 114506949
       cow_img: 1945318558
       elephant_img: -323940502
-      horse_txt: 2032368956
+      cow_txt_vaca: -1100553105
+      chicken_txt_galinha: 1377754019
       chicken_img: -2023288955
       cat_img: -1980098558
-      sheep_txt: -56596879
-      whale_txt: -820209260
-      bird_txt: -1399631014
-      cat_txt: -740851693
+      monkey_txt_macaco: 1807286909
+      elephant_txt_elefante: -1886942060
+      cat_txt_gato: -740851693
       bird_img: 1261170584
-      turtle_txt: -515760447
+      sheep_txt_ovelha: -56596879
+      whale_txt_baleia: -820209260
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

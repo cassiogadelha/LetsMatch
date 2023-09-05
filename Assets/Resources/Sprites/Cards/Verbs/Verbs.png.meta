@@ -369,7 +369,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sleep_txt
+      name: sleep_txt_dormir
       rect:
         serializedVersion: 2
         x: 1
@@ -390,7 +390,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cry_txt
+      name: cry_txt_chorar
       rect:
         serializedVersion: 2
         x: 277
@@ -411,7 +411,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: eat_txt
+      name: eat_txt_comer
       rect:
         serializedVersion: 2
         x: 565
@@ -432,7 +432,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: drink_txt
+      name: drink_txt_beber
       rect:
         serializedVersion: 2
         x: 838
@@ -453,7 +453,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk_txt
+      name: walk_txt_caminhar
       rect:
         serializedVersion: 2
         x: 1
@@ -474,7 +474,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sing_txt
+      name: sing_txt_cantar
       rect:
         serializedVersion: 2
         x: 277
@@ -495,7 +495,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: talk_txt
+      name: talk_txt_conversar
       rect:
         serializedVersion: 2
         x: 565
@@ -516,7 +516,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: write_txt
+      name: write_txt_escrever
       rect:
         serializedVersion: 2
         x: 838
@@ -537,7 +537,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sit_txt
+      name: sit_txt_sentar
       rect:
         serializedVersion: 2
         x: 1
@@ -558,7 +558,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cook_txt
+      name: cook_txt_cozinhar
       rect:
         serializedVersion: 2
         x: 277
@@ -579,7 +579,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: swim_txt
+      name: swim_txt_nadar
       rect:
         serializedVersion: 2
         x: 565
@@ -600,10 +600,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: watch_txt
+      name: watch_txt_assistir
       rect:
         serializedVersion: 2
-        x: 838
+        x: 836
         y: 2
         width: 238
         height: 189
@@ -631,30 +631,30 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      sleep_txt: 1355813155
+      cook_txt_cozinhar: 1927073725
       sing_img: 1629897483
+      write_txt_escrever: 755201729
       cry_img: 514260884
       swim_img: -813065829
       watch_img: -1628991892
+      talk_txt_conversar: 655973106
+      walk_txt_caminhar: -881818844
+      sing_txt_cantar: 35703559
       talk_img: -958072059
-      cook_txt: 1927073725
-      walk_txt: -881818844
-      swim_txt: 469888342
+      swim_txt_nadar: 469888342
+      watch_txt_assistir: -1384849956
       drink_img: -507552590
-      eat_txt: 1816060295
-      drink_txt: -1073798213
-      watch_txt: -1384849956
+      sleep_txt_dormir: 1355813155
       walk_img: 677016195
-      write_txt: 755201729
       sit_img: -1563629266
       sleep_img: 713730332
+      cry_txt_chorar: 1995880218
       eat_img: -350921062
       cook_img: -505114100
-      talk_txt: 655973106
+      sit_txt_sentar: -678003115
       write_img: -921470686
-      cry_txt: 1995880218
-      sit_txt: -678003115
-      sing_txt: 35703559
+      eat_txt_comer: 1816060295
+      drink_txt_beber: -1073798213
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -369,7 +369,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: apple_txt
+      name: apple_txt_maca
       rect:
         serializedVersion: 2
         x: 4
@@ -390,7 +390,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coconut_txt
+      name: coconut_txt_coco
       rect:
         serializedVersion: 2
         x: 277
@@ -411,7 +411,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: melon_txt
+      name: melon_txt_melao
       rect:
         serializedVersion: 2
         x: 565
@@ -432,7 +432,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: watermelon_txt
+      name: watermelon_txt_melancia
       rect:
         serializedVersion: 2
         x: 835
@@ -453,7 +453,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: grape_txt
+      name: grape_txt_uva
       rect:
         serializedVersion: 2
         x: 1
@@ -474,7 +474,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: lemon_txt
+      name: lemon_txt_limao
       rect:
         serializedVersion: 2
         x: 274
@@ -495,7 +495,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: papaya_txt
+      name: papaya_txt_melao
       rect:
         serializedVersion: 2
         x: 565
@@ -516,7 +516,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: strawberry_txt
+      name: strawberry_txt_morango
       rect:
         serializedVersion: 2
         x: 838
@@ -537,7 +537,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pineapple_txt
+      name: pineapple_txt_abaxaci
       rect:
         serializedVersion: 2
         x: 1
@@ -558,7 +558,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: avocado_txt
+      name: avocado_txt_abacate
       rect:
         serializedVersion: 2
         x: 277
@@ -579,7 +579,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: passionfruit_txt
+      name: passionfruit_txt_maracujina
       rect:
         serializedVersion: 2
         x: 565
@@ -600,7 +600,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mango_txt
+      name: mango_txt_manga
       rect:
         serializedVersion: 2
         x: 838
@@ -631,30 +631,30 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      apple_txt: -1645974176
       coconut_img: -1391226309
-      grape_txt: 1100254061
       papaya_img: -745452795
-      coconut_txt: -1877202444
-      melon_txt: 143022756
-      passionfruit_txt: -1973730184
-      avocado_txt: 1378977238
+      grape_txt_uva: 1100254061
+      passionfruit_txt_maracujina: -1973730184
+      strawberry_txt_morango: -54860289
+      pineapple_txt_abaxaci: 930279296
+      avocado_txt_abacate: 1378977238
       mango_img: -555440272
       watermelon_img: 1850321964
       strawberry_img: -1888040776
       pineapple_img: -1821152687
       grape_img: 970699644
       avocado_img: 293902175
-      mango_txt: 19626757
+      papaya_txt_melao: -255059968
       apple_img: 357979759
       lemon_img: -107124249
-      lemon_txt: 2021675908
-      papaya_txt: -255059968
-      pineapple_txt: 930279296
+      apple_txt_maca: -1645974176
+      coconut_txt_coco: -1877202444
+      mango_txt_manga: 19626757
       passionfruit_img: 1445662073
-      watermelon_txt: 2134097913
+      watermelon_txt_melancia: 2134097913
+      melon_txt_melao: 143022756
+      lemon_txt_limao: 2021675908
       melon_img: 848785360
-      strawberry_txt: -54860289
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
