@@ -6,7 +6,6 @@ using UnityEngine.SceneManagement;
 [AddComponentMenu("Accessibility/UI/Accessible Button")]
 public class AccessibleButton : UAP_BaseElement
 {
-
 	//////////////////////////////////////////////////////////////////////////
 
 	AccessibleButton()
@@ -22,6 +21,8 @@ public class AccessibleButton : UAP_BaseElement
 		Button button = GetButton();
 		if (button != null)
 		{
+            Events.OnTrainingButtonInteracted.Invoke(button);
+
 			var pointer = new PointerEventData(EventSystem.current); // pointer event for Execute
 			button.OnPointerClick(pointer);
 			return;

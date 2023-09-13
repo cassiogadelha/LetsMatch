@@ -129,7 +129,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: one
+      name: one_um
       rect:
         serializedVersion: 2
         x: 0
@@ -150,7 +150,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: two
+      name: two_dois
       rect:
         serializedVersion: 2
         x: 0
@@ -171,7 +171,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: three
+      name: three_tress
       rect:
         serializedVersion: 2
         x: 0
@@ -192,11 +192,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: four
+      name: four_quatro
       rect:
         serializedVersion: 2
         x: 0
-        y: 748
+        y: 750
         width: 206
         height: 73
       alignment: 0
@@ -213,7 +213,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: five
+      name: five_cinco
       rect:
         serializedVersion: 2
         x: 0
@@ -234,7 +234,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: six
+      name: six_seis
       rect:
         serializedVersion: 2
         x: 0
@@ -255,7 +255,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: seven
+      name: seven_sete
       rect:
         serializedVersion: 2
         x: 0
@@ -276,7 +276,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: eight
+      name: eight_oito
       rect:
         serializedVersion: 2
         x: 0
@@ -297,7 +297,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: nine
+      name: nine_nove
       rect:
         serializedVersion: 2
         x: 0
@@ -318,7 +318,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ten
+      name: ten_dez
       rect:
         serializedVersion: 2
         x: 0
@@ -339,7 +339,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: eleven
+      name: eleven_onze
       rect:
         serializedVersion: 2
         x: 0
@@ -360,7 +360,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: twelve
+      name: twelve_doze
       rect:
         serializedVersion: 2
         x: 0
@@ -391,18 +391,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      six: -243464339
-      seven: 528109091
-      ten: 197441323
-      eleven: -651895581
-      two: -98654236
-      one: -1714565790
-      twelve: -494010817
-      five: 1358659550
-      eight: 1542683891
-      three: 1847225197
-      four: 14947763
-      nine: -1333578585
+      three_tress: 1847225197
+      one_um: -1714565790
+      two_dois: -98654236
+      eight_oito: 1542683891
+      eleven_onze: -651895581
+      six_seis: -243464339
+      ten_dez: 197441323
+      twelve_doze: -494010817
+      four_quatro: 14947763
+      five_cinco: 1358659550
+      nine_nove: -1333578585
+      seven_sete: 528109091
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -129,7 +129,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bird
+      name: bird_pahssaro
       rect:
         serializedVersion: 2
         x: 0
@@ -150,11 +150,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cat
+      name: cat_gatto
       rect:
         serializedVersion: 2
         x: 0
-        y: 958
+        y: 960
         width: 206
         height: 73
       alignment: 0
@@ -171,7 +171,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cow
+      name: cow_vaahca
       rect:
         serializedVersion: 2
         x: 0
@@ -192,7 +192,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken
+      name: chicken_galinha
       rect:
         serializedVersion: 2
         x: 0
@@ -213,7 +213,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dog
+      name: dog_caxorro
       rect:
         serializedVersion: 2
         x: 0
@@ -234,7 +234,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: elephant
+      name: elephant_elefante
       rect:
         serializedVersion: 2
         x: 0
@@ -255,7 +255,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fish
+      name: fish_peixi
       rect:
         serializedVersion: 2
         x: 0
@@ -276,11 +276,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: horse
+      name: horse_cavalo
       rect:
         serializedVersion: 2
         x: 0
-        y: 358
+        y: 359
         width: 206
         height: 74
       alignment: 0
@@ -297,7 +297,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: monkey
+      name: monkey_macaco
       rect:
         serializedVersion: 2
         x: 0
@@ -318,7 +318,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sheep
+      name: sheep_ovelha
       rect:
         serializedVersion: 2
         x: 0
@@ -339,7 +339,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: turtle
+      name: turtle_tartaruga
       rect:
         serializedVersion: 2
         x: 0
@@ -360,7 +360,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: whale
+      name: whale_bahleiia
       rect:
         serializedVersion: 2
         x: 0
@@ -391,18 +391,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      fish: 2024550918
-      cat: -1570566620
-      sheep: 1017486489
-      cow: 2089045349
-      monkey: 515268209
-      whale: 2033635773
-      horse: -1153475966
-      elephant: 666228245
-      chicken: -1572093522
-      bird: 2053833822
-      turtle: 562383856
-      dog: 1302214625
+      turtle_tartaruga: 562383856
+      dog_caxorro: 1302214625
+      cat_gatto: -1570566620
+      cow_vaahca: 2089045349
+      whale_bahleiia: 2033635773
+      fish_peixi: 2024550918
+      monkey_macaco: 515268209
+      chicken_galinha: -1572093522
+      horse_cavalo: -1153475966
+      elephant_elefante: 666228245
+      bird_pahssaro: -1570566620
+      sheep_ovelha: 1017486489
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

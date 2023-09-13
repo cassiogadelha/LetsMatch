@@ -129,7 +129,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: black
+      name: black_preto
       rect:
         serializedVersion: 2
         x: 0
@@ -150,7 +150,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blue
+      name: blue_azul
       rect:
         serializedVersion: 2
         x: 0
@@ -171,7 +171,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: brown
+      name: brown_marrom
       rect:
         serializedVersion: 2
         x: 0
@@ -192,7 +192,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cyan
+      name: cyan_ciano
       rect:
         serializedVersion: 2
         x: 0
@@ -213,11 +213,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gray
+      name: gray_cinza
       rect:
         serializedVersion: 2
         x: 0
-        y: 652
+        y: 656
         width: 206
         height: 73
       alignment: 0
@@ -234,7 +234,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: green
+      name: green_verde
       rect:
         serializedVersion: 2
         x: 0
@@ -255,7 +255,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: orange
+      name: orange_laranja
       rect:
         serializedVersion: 2
         x: 0
@@ -276,7 +276,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pink
+      name: pink_rosa
       rect:
         serializedVersion: 2
         x: 0
@@ -297,7 +297,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: purple
+      name: purple_roxo
       rect:
         serializedVersion: 2
         x: 0
@@ -318,7 +318,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: red
+      name: red_vermelho
       rect:
         serializedVersion: 2
         x: 0
@@ -339,7 +339,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: white
+      name: white_branco
       rect:
         serializedVersion: 2
         x: 0
@@ -360,7 +360,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: yellow
+      name: yellow_amarelo
       rect:
         serializedVersion: 2
         x: 0
@@ -391,18 +391,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      green: -457480595
-      brown: -2085425680
-      pink: 1434910345
-      purple: 2099150445
-      yellow: 1534689890
-      white: -1986066268
-      red: -143142921
-      gray: 1368918270
-      orange: 1694860268
-      cyan: 1323777809
-      black: -950059506
-      blue: -1282335069
+      gray_cinza: 1368918270
+      black_preto: -950059506
+      white_branco: -1986066268
+      orange_laranja: 1694860268
+      pink_rosa: 1434910345
+      red_vermelho: -143142921
+      blue_azul: -1282335069
+      purple_roxo: 2099150445
+      cyan_ciano: 1323777809
+      yellow_amarelo: 1534689890
+      green_verde: -457480595
+      brown_marrom: -2085425680
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

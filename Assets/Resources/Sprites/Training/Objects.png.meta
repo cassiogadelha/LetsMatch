@@ -129,7 +129,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ball
+      name: ball_bola
       rect:
         serializedVersion: 2
         x: 0
@@ -150,7 +150,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bed
+      name: bed_cama
       rect:
         serializedVersion: 2
         x: 0
@@ -171,7 +171,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: book
+      name: book_leevro
       rect:
         serializedVersion: 2
         x: 0
@@ -192,7 +192,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chair
+      name: chair_cadeira
       rect:
         serializedVersion: 2
         x: 0
@@ -213,7 +213,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: clock
+      name: clock_reloohgio
       rect:
         serializedVersion: 2
         x: 0
@@ -234,7 +234,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: doll
+      name: doll_boneca
       rect:
         serializedVersion: 2
         x: 0
@@ -255,7 +255,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: door
+      name: door_porta
       rect:
         serializedVersion: 2
         x: 0
@@ -276,7 +276,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glasses
+      name: glasses_ohhculos
       rect:
         serializedVersion: 2
         x: 0
@@ -297,7 +297,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: key
+      name: key_chave
       rect:
         serializedVersion: 2
         x: 0
@@ -318,11 +318,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: knife
+      name: knife_faca
       rect:
         serializedVersion: 2
         x: 0
-        y: 168
+        y: 170
         width: 206
         height: 73
       alignment: 0
@@ -339,7 +339,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: paper
+      name: paper_papel
       rect:
         serializedVersion: 2
         x: 0
@@ -360,7 +360,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: table
+      name: table_mesa
       rect:
         serializedVersion: 2
         x: 0
@@ -391,18 +391,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      bed: -14725885
-      chair: -1763923594
-      door: -551744702
-      book: 1264101524
-      doll: -1885028941
-      key: 1231978520
-      knife: -312250526
-      ball: -2106217095
-      table: -1717735912
-      glasses: 823215657
-      clock: 900493050
-      paper: 1138855716
+      chair_cadeira: -1763923594
+      table_mesa: -1717735912
+      book_leevro: 1264101524
+      clock_reloohgio: 900493050
+      paper_papel: 1138855716
+      glasses_ohhculos: 823215657
+      door_porta: -551744702
+      knife_faca: -312250526
+      doll_boneca: -1885028941
+      key_chave: 1231978520
+      bed_cama: -14725885
+      ball_bola: -2106217095
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

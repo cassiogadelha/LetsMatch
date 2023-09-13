@@ -129,7 +129,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: cook
+      name: cook_cozinhar
       rect:
         serializedVersion: 2
         x: 0
@@ -150,7 +150,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cry
+      name: cry_chorar
       rect:
         serializedVersion: 2
         x: 0
@@ -171,7 +171,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: drink
+      name: drink_beber
       rect:
         serializedVersion: 2
         x: 0
@@ -192,7 +192,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: eat
+      name: eat_comer
       rect:
         serializedVersion: 2
         x: 0
@@ -213,7 +213,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sing
+      name: sing_cantar
       rect:
         serializedVersion: 2
         x: 0
@@ -234,7 +234,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sit
+      name: sit_sentar
       rect:
         serializedVersion: 2
         x: 0
@@ -255,7 +255,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sleep
+      name: sleep_dormir
       rect:
         serializedVersion: 2
         x: 0
@@ -276,7 +276,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: swim
+      name: swim_nadar
       rect:
         serializedVersion: 2
         x: 0
@@ -297,7 +297,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: talk
+      name: talk_falar
       rect:
         serializedVersion: 2
         x: 0
@@ -318,11 +318,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: walk
+      name: walk_andar
       rect:
         serializedVersion: 2
         x: 0
-        y: 168
+        y: 170
         width: 206
         height: 73
       alignment: 0
@@ -339,7 +339,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: watch
+      name: watch_assistir
       rect:
         serializedVersion: 2
         x: 0
@@ -360,7 +360,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: write
+      name: write_escrever
       rect:
         serializedVersion: 2
         x: 0
@@ -391,18 +391,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      swim: -812554620
-      sing: -1155608431
-      eat: 1343125717
-      sit: -1344095224
-      cook: 822558592
-      write: -1647003383
-      drink: -370447378
-      cry: -1298462586
-      walk: 1808465090
-      watch: 308847660
-      sleep: -1068925334
-      talk: 2126480714
+      watch_assistir: 308847660
+      drink_beber: -370447378
+      talk_falar: 2126480714
+      write_escrever: -1647003383
+      sleep_dormir: -1068925334
+      cry_chorar: -1298462586
+      sing_cantar: -1155608431
+      sit_sentar: -1344095224
+      walk_andar: 1808465090
+      eat_comer: 1343125717
+      swim_nadar: -812554620
+      cook_cozinhar: 822558592
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

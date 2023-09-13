@@ -129,7 +129,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: apple
+      name: apple_massan
       rect:
         serializedVersion: 2
         x: 0
@@ -150,11 +150,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: avocado
+      name: avocado_abacate
       rect:
         serializedVersion: 2
         x: 0
-        y: 958
+        y: 960
         width: 205
         height: 73
       alignment: 0
@@ -171,7 +171,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: coconut
+      name: coconut_coohco
       rect:
         serializedVersion: 2
         x: 0
@@ -192,7 +192,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: grape
+      name: grape_uva
       rect:
         serializedVersion: 2
         x: 0
@@ -213,7 +213,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: lemon
+      name: lemon_limaum
       rect:
         serializedVersion: 2
         x: 0
@@ -234,7 +234,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mango
+      name: mango_manga
       rect:
         serializedVersion: 2
         x: 0
@@ -255,10 +255,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: melon
+      name: melon_melaum
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 453
         width: 205
         height: 73
@@ -276,7 +276,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: papaya
+      name: papaya_mamaum
       rect:
         serializedVersion: 2
         x: 0
@@ -297,7 +297,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: passionfruit
+      name: passionfruit_maracujina
       rect:
         serializedVersion: 2
         x: 0
@@ -318,7 +318,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pineapple
+      name: pineapple_abacaxi
       rect:
         serializedVersion: 2
         x: 1
@@ -339,11 +339,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: strawberry
+      name: strawberry_morango
       rect:
         serializedVersion: 2
         x: 0
-        y: 87
+        y: 90
         width: 205
         height: 73
       alignment: 0
@@ -360,7 +360,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: watermelon
+      name: watermelon_melancia
       rect:
         serializedVersion: 2
         x: 0
@@ -391,18 +391,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      apple: 655843549
-      pineapple: 930593032
-      coconut: 496712408
-      lemon: 1457446708
-      strawberry: -2104110099
-      avocado: -1004189543
-      mango: -1697213579
-      papaya: 1066532778
-      grape: -471966379
-      watermelon: 166408332
-      passionfruit: -223793017
-      melon: -37795529
+      coconut_coohco: 496712408
+      pineapple_abacaxi: 930593032
+      lemon_limaum: 1457446708
+      melon_melaum: -37795529
+      watermelon_melancia: 166408332
+      passionfruit_maracujina: -223793017
+      mango_manga: -1697213579
+      apple_massan: 655843549
+      grape_uva: -471966379
+      strawberry_morango: -2104110099
+      papaya_mamaum: 1066532778
+      avocado_abacate: -1004189543
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
